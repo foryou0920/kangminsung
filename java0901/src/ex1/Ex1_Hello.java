@@ -1,0 +1,11 @@
+package ex1;
+
+public class Ex1_Hello {
+    public static void main(String[] args){
+        System.out.print("¿©±â´Â ÁÙ¹Ù²ÞÀÌ ¾ÈµÊ!!");
+        System.out.println("good bye~~~!!"); 
+        
+    }
+ 
+}
+
